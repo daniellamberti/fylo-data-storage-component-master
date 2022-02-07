@@ -86,6 +86,7 @@ h6 {
 @media (min-width: 830px) {
 .sectionTop {
     width: 33%;
+    margin-top: 9rem;
     }
 }
 
@@ -117,19 +118,11 @@ h6 {
     border-radius: 5% 5%;
 }
 
-.zeroG p {
-    font-size: .8rem !important;
-}
-
-.thousandG p {
-    font-weight: 600 !important;
-}
-
 @media (min-width: 830px) {
 .sectionMiddle {
     width: 43%;
     align-items: flex-start;
-    margin-top: 11.4rem;
+    margin-top: 12.3rem;
     padding: 1rem;
     }
 }
@@ -150,6 +143,14 @@ h6 {
     opacity: 1 !important;
     font-size: .9rem;
     font-weight: 500;
+}
+
+.zeroG p {
+    font-size: .8rem !important;
+}
+
+.thousandG p {
+    font-weight: 600 !important;
 }
 
 .blueSlider {
