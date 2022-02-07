@@ -32,9 +32,9 @@ h1 {
 }
 
 h2 {
-    color: gray;
-    font-size: .8rem;
-    font-weight: 400;
+    color: rgb(206, 203, 203);
+    font-size: .7rem;
+    font-weight: 500;
 }
 
 
@@ -115,6 +115,14 @@ h6 {
     background-color:  hsl(228, 56%, 26%);
     padding: 1.4rem;
     border-radius: 5% 5%;
+}
+
+.zeroG p {
+    font-size: .8rem !important;
+}
+
+.thousandG p {
+    font-weight: 600 !important;
 }
 
 @media (min-width: 830px) {
@@ -299,6 +307,8 @@ h6 {
 }
 
 .numbers h3 {
+    color: black !important;
+    font-size: 2.2rem !important;
     font-weight: 600;
 }
 
